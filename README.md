@@ -39,8 +39,18 @@ This repository is organized session-by-session. Inside each session folder, you
 ## 🚀 How to Use This Course
 
 ### Prerequisites
-- Install [Python 3.x](https://www.python.org/downloads/) on your machine.
-- Install a code editor like [Visual Studio Code](https://code.visualstudio.com/) or PyCharm.
+
+**1. Python Installation (Latest LTS)**
+- **Download Python:** Go to the official [Python Downloads page](https://www.python.org/downloads/). We recommend downloading the latest stable/Long Term Support (LTS) release (such as Python 3.11 or 3.12) to ensure maximum compatibility and stability.
+- **Crucial Step for Windows Users:** During the installation wizard, **make sure to check the box** at the bottom that says **"Add python.exe to PATH"** before clicking "Install Now". This is required to run Python commands from your terminal!
+- **Verify Installation:** Once installed, open your command prompt or terminal and run the following command to check your version and confirm it is successfully added to your PATH:
+  ```bash
+  python --version
+  ```
+  *(If it returns your Python version number, you are good to go! If it says "command not found" or isn't recognized, you will need to reinstall and check the PATH box, or manually add it to your system's environment variables).*
+
+**2. Code Editor**
+- Install a modern code editor. We highly recommend [Visual Studio Code (VS Code)](https://code.visualstudio.com/) with the "Python" extension installed.
 
 ### Getting Started
 1. **Clone the repository:**
