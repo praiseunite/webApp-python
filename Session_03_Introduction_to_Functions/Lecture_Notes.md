@@ -7,7 +7,7 @@ Imagine you are building a calculator app. You need to add numbers in 50 differe
 A function is a block of code that only runs when it is called. You can pass data into a function, and it can return data back to you.
 
 Think of a function like a factory machine:
-![Function Machine Diagram](C:/Users/DELL/.gemini/antigravity/brain/87afa76e-c759-4c10-9bf7-7612a5d99632/python_function_machine_1782468192342.png)
+![Function Machine Diagram](../assets/images/python_function_machine.png)
 *(Inputs go in ➔ The Function processes them ➔ The Output comes out)*
 
 ### Types of Functions:

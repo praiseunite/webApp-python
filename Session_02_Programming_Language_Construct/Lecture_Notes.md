@@ -45,7 +45,7 @@ These compare two values and always result in a Boolean (`True` or `False`).
 
 Programs usually run from top to bottom. Control flow allows us to branch off into different paths or repeat code.
 
-![Control Flow Tracks](C:/Users/DELL/.gemini/antigravity/brain/87afa76e-c759-4c10-9bf7-7612a5d99632/python_control_flow_tracks_1782473460200.png)
+![Control Flow Tracks](../assets/images/python_control_flow_tracks.png)
 
 ### Conditional Statements (`if`, `elif`, `else`)
 Think of this like reaching a fork in the train tracks. The train reads the sign (condition) and decides which track to take.

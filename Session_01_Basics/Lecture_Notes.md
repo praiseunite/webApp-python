@@ -22,7 +22,7 @@ Imagine Python as a universal translator between you and the computer. Instead o
 
 Think of a **variable** as a labeled storage box. 
 
-![Variables as Storage Boxes](C:/Users/DELL/.gemini/antigravity/brain/87afa76e-c759-4c10-9bf7-7612a5d99632/python_variables_boxes_1782473444065.png)
+![Variables as Storage Boxes](../assets/images/python_variables_boxes.png)
 
 When you play a video game, the game needs to remember your score, your health, and your username. It stores this information in "boxes" (variables) so it can update them as you play.
 

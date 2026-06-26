@@ -40,7 +40,7 @@ print(add_ten_lambda(5))  # Output: 15
 
 Imagine you've written a brilliant function. If you want to use it in another project, you don't want to copy-paste the code. Instead, you put it in a module!
 
-![Modules and Packages Diagram](C:/Users/DELL/.gemini/antigravity/brain/87afa76e-c759-4c10-9bf7-7612a5d99632/python_modules_packages_1782468968715.png)
+![Modules and Packages Diagram](../assets/images/python_modules_packages.png)
 
 ### What is a Module?
 A **Module** is simply a Python file (`.py`) containing a set of functions and variables you want to include in your application.
