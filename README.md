@@ -21,9 +21,10 @@ This repository is organized session-by-session. Inside each session folder, you
 
 ### Phase 1: Core Python & Logic
 - **Session 1:** Basics of Python (Syntax, Variables, Identifiers)
-- **Session 2:** Programming Language Construct (Data Types, Operators, Control Flow)
-- **Session 3:** Introduction to Functions (Scope, Parameters, Returns)
+- **Session 2:** Programming Language Construct (Data Types, Lists, Dictionaries, Operators, Control Flow)
+- **Session 3:** Introduction to Functions (Scope, Parameters, Return Values)
 - **Session 4:** Functions, Modules, and Packages (Recursion, Lambdas, Imports)
+- **Session 5:** Review & Try It Yourself (Library System or Grade Calculator + Debug Challenge)
 
 ### Phase 2: Interacting with the World *(Upcoming)*
 - **Session 5:** File Handling and Exception Handling
