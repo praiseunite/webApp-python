@@ -374,3 +374,13 @@ window.mainloop()
 - **"Python GUI with Tkinter - Full Course"** by freeCodeCamp
 - **"Tkinter Course - Create Graphic User Interfaces with Python Tutorial"** by Tech With Tim
 - **"Python Tkinter Tutorial"** by Corey Schafer
+
+
+ASM
+1. VE - 
+2. AA - 
+3. VI - 
+4. VO - 
+5. UP - 
+6. RC - 
+7. ME - 
