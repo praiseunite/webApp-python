@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Department
+Alice Smith,28,New York, 65000 ,HR
+Bob Jones,,London,72000,Engineering
+Charlie Brown,  32 ,Paris,,Sales
+DAVID LEE,45,Tokyo,95000,Engineering
+Eve  Davis,29, , 58000,HR
+Frank White,-5,Berlin,61000,Sales
+Grace Kim,34,Seoul,82000,Engineering
+Henry Ford, forty,Detroit,90000,Management
+Ivy Chen,27,Shanghai,  ,Sales
+Jack Wilson,31,Sydney,70000,Engineering
