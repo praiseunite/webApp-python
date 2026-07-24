@@ -1,0 +1,21 @@
+StudentID,Name,Age,Gender,Course,Score_Pandas,Score_Visualization,Score_ML,Score_Regression,City,Scholarship
+S001,Alice Johnson,22,F,Data Science,88,92,75,81,Lagos,Yes
+S002,bob smith,19,M,Software Eng,70,65,,58,Abuja,No
+S003,CHARLIE BROWN,25,M,Data Science,91,88,85,90,Lagos,Yes
+S004,Diana Prince,21,F,Cybersecurity,55,60,48,52,Port Harcourt,No
+S005,Edward Nwosu,24,M,Data Science,,78,80,76,Enugu,No
+S006,  Fatima Bello ,20,F,Software Eng,82,79,71,68,Kano,Yes
+S007,George Okafor,23,M,Data Science,95,91,92,94,Lagos,Yes
+S008,Hannah Lee,22,F,Software Eng,63,70,55,61,Abuja,No
+S009,Ibrahim Yusuf,26,M,Cybersecurity,44,50,40,45,Kaduna,No
+S010,Jennifer Adeyemi,21,F,Data Science,87,84,79,83,Lagos,Yes
+S011,kevin o'brien,20,M,Software Eng,73,68,62,70,Ibadan,No
+S012,LINDA OKEKE,24,F,Data Science,90,93,88,91,Lagos,Yes
+S013,Michael Eze,22,M,Cybersecurity,58,55,50,54,Benin City,No
+S014,Nancy Obi,23,F,Data Science,85,89,82,86,Lagos,Yes
+S015,Oscar Mensah,21,M,Software Eng,67,72,60,65,Abuja,No
+S016,Patricia Amos,-1,F,Data Science,92,90,87,89,Lagos,Yes
+S017,Quincy Adams,28,M,Data Science,78,80,73,77,Ibadan,No
+S018,Rachel Green,22,F,Software Eng,61,66,53,58,Port Harcourt,No
+S019,Samuel Okonkwo,25,M,Cybersecurity,49,52,43,47,Enugu,No
+S020,Tina Turner,20,F,Data Science,94,96,91,93,Lagos,Yes

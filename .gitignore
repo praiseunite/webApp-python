@@ -1,2 +1,5 @@
 # Ignore solution files so students don't see the answers!
 *solution.py
+
+# Ignore upcoming final projects until ready
+# Final_Projects/
